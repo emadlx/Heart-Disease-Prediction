@@ -30,3 +30,16 @@ desktop.ini
 # Logs
 *.log
 *.out
+
+# Data files
+Data/*.data
+Data/*.mod
+Data/bak
+Data/Index
+Data/WARNING
+Data/ask-detrano
+Data/costs/
+Data/heart+disease.zip
+Data/heart-disease.names
+
+!Data/processed.cleveland.data
